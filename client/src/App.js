@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Da li radi ako se ne digne build file???</h1>
+     <h1>TEST TEST TEST</h1>
         <Counter />
     </div>
   );
